@@ -32,3 +32,5 @@ MIT License
 # PR Merge: 2025-10-23 - docs/merge-8715
 
 # PR Merge: 2025-10-23 - docs/merge-6832
+
+# PR Update: 2025-10-23 - docs/update-2945
